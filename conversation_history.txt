@@ -1,0 +1,493 @@
+User: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+Ollama: cmd
+
+start notepadUser: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+Ollama: cmd
+
+start notepad
+ model = {model}
+{current_date}
+{current_time}
+User: open Notepad
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+Ollama: code
+
+notepadUser: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepadUser: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad
+ model = {model}
+{current_date}
+{current_time}
+User: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd; start notepadUser: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad
+ model = {model}
+{current_date}
+{current_time}
+User: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd; start notepad
+ model = {model}
+{current_date}
+{current_time}
+User: make sure you send it back wrapping triple back pics
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad;  
+```User: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad
+ model = {model}
+{current_date}
+{current_time}
+User: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd; start notepad
+ model = {model}
+{current_date}
+{current_time}
+User: make sure you send it back wrapping triple back pics
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad;  
+```
+ model = {model}
+{current_date}
+{current_time}
+User: no I need the command to open notepad sent back and triple
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad;  ```User: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad
+ model = {model}
+{current_date}
+{current_time}
+User: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd; start notepad
+ model = {model}
+{current_date}
+{current_time}
+User: make sure you send it back wrapping triple back pics
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad;  
+```
+ model = {model}
+{current_date}
+{current_time}
+User: no I need the command to open notepad sent back and triple
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad;  ```
+ model = {model}
+{current_date}
+{current_time}
+User: that didn't work let's do triple back ticks starting notepad triple back
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad;  ```User: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad
+ model = {model}
+{current_date}
+{current_time}
+User: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd; start notepad
+ model = {model}
+{current_date}
+{current_time}
+User: make sure you send it back wrapping triple back pics
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad;  
+```
+ model = {model}
+{current_date}
+{current_time}
+User: no I need the command to open notepad sent back and triple
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad;  ```
+ model = {model}
+{current_date}
+{current_time}
+User: that didn't work let's do triple back ticks starting notepad triple back
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad;  ```User: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad
+ model = {model}
+{current_date}
+{current_time}
+User: open notepad for me please
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd; start notepad
+ model = {model}
+{current_date}
+{current_time}
+User: make sure you send it back wrapping triple back pics
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad;  
+```
+ model = {model}
+{current_date}
+{current_time}
+User: no I need the command to open notepad sent back and triple
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad;  ```
+ model = {model}
+{current_date}
+{current_time}
+User: that didn't work let's do triple back ticks starting notepad triple back
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'Extracting code failed', 'ollama': 'Failed to parse response'}
+ model = {model}
+{current_date}
+{current_time}
+{'user': 'No code extracted', 'ollama': 'No valid code block found in response'}
+ model = {model}
+{current_date}
+{current_time}
+SYSTEM: Ollama System Command & Execution Agent
+
+cmd;
+start notepad;  ```
